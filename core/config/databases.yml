@@ -1,0 +1,12 @@
+  
+all:
+  doctrine:
+    class: sfDoctrineDatabase
+    param:
+      dsn: 'mysql:dbname=qdpm;host=127.0.0.1;port=3306'
+      profiler: false
+      username: ostechnix
+      password: "<?php echo urlencode('Password123#@!') ; ?>"
+      attributes:
+        quote_identifier: true  
+  

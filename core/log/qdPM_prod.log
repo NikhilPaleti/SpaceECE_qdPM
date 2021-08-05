@@ -1,0 +1,3 @@
+Aug 05 01:43:35 symfony [err] {sfError404Exception} Action "project/index" does not exist.
+Aug 05 01:43:41 symfony [err] {sfError404Exception} Action "project/index" does not exist.
+Aug 05 01:44:13 symfony [err] {sfError404Exception} Action "project/index" does not exist.
