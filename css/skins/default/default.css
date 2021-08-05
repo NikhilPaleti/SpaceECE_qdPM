@@ -42,7 +42,7 @@ Page header
 .header {
   filter: none;
   background-image: none;
-  background-color: #444444;
+  background-color: #F8A800;
 }
 .header .navbar-nav .dropdown-toggle:hover,
 .header .navbar-nav .dropdown.open .dropdown-toggle {
